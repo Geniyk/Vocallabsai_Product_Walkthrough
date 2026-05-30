@@ -6,16 +6,21 @@ A comprehensive product teardown of Vocallabs.ai based on hands-on exploration o
 
 # 📌 Table of Contents
 
-* Overview
-* Product Overview
-* Research Methodology
-* GTM & ICP Analysis
-* Competitor Analysis
-* Features & Services Analysis
-* UX Analysis
-* Potential Collaborations
-* Prioritization Matrix
-* Final Recommendations
+- [Overview](#overview)
+- [Product Overview](#product-overview)
+- [Research Methodology](#research-methodology)
+- [GTM & ICP Analysis](#gtm--icp-analysis)
+  - [Feedback 1: Mixed Positioning Creates ICP Confusion](#feedback-1-mixed-positioning-creates-icp-confusion)
+- [Competitor Analysis](#competitor-analysis)
+  - [Feedback 2: Limited Outcome-Based Messaging](#feedback-2-limited-outcome-based-messaging)
+- [Features & Services Analysis](#features--services-analysis)
+  - [Feedback 3: Industry Pages Lack Workflow-Level Clarity](#feedback-3-industry-pages-lack-workflow-level-clarity)
+- [UX Analysis](#ux-analysis)
+  - [Feedback 4: Technical Errors Exposed to End Users](#feedback-4-technical-errors-exposed-to-end-users)
+- [Potential Collaborations](#potential-collaborations)
+  - [Feedback 5: CRM Ecosystem Partnership Opportunity](#feedback-5-crm-ecosystem-partnership-opportunity)
+- [Prioritization Matrix](#prioritization-matrix)
+- [Final Recommendations](#final-recommendations)
 
 ---
 
